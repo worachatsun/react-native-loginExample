@@ -26,7 +26,7 @@ export default class Feed extends Component {
       this.setState({
         loading: !this.state.loading
       });
-    }, 1000);
+    }, 500);
     // this.setState({
     //   loading: !this.state.loading
     // })
